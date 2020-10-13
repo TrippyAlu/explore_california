@@ -1,0 +1,11 @@
+#Demo/example
+
+.DS_store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/videos/
+!assets/videos/tour_*.mp4
+
+accesslog
